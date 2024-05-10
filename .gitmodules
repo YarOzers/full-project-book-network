@@ -1,0 +1,6 @@
+[submodule "book-network-ui"]
+	path = book-network-ui
+	url = git@github.com:YarOzers/book-network-ui.git
+[submodule "book-network"]
+	path = book-network
+	url = git@github.com:YarOzers/book-network.git
